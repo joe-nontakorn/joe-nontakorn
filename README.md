@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="header" align="center">
+ <img src="https://komarev.com/ghpvc/?username=joe-nontakorn&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontakorn Khanaphol
 ===========================================================================================================================================
@@ -27,6 +32,7 @@ Computer Engineering
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joe-nontakorn&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://github.com/joe-nontakorn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-nontakorn&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
