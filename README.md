@@ -15,7 +15,7 @@ Computer Engineering
 
 * จบการศึกษาจาก : มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี (2566) 
 * ตำแหน่งงานปัจจุบัน : IoT Developer 
-
+* Computer Engineering & Programer
 * 🌍  I'm based in Thailand
 * 📫 How to reach me **nontakorn.joe01@gmail.com**
 
