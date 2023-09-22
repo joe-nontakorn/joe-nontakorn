@@ -53,14 +53,8 @@ Computer Engineering
 
 ### My GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=joe-nontakorn&show_icons=true&theme=radical" alt="Nontakorn's GitHub stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-nontakorn&layout=compact" alt="Top Langs" />
-  </div>
-</div>
+  ![Nontakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-nontakorn&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-nontakorn&layout=compact)
+
 
 
 
