@@ -56,7 +56,6 @@ Computer Engineering
 <a> ![Nontakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-nontakorn&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-nontakorn&layout=compact&show_icons=true&theme=radical)
 </a>
 
-![Snake animation](https://github.com/joe-nontakorn/joe-nontakorn/blob/output/github-contribution-grid-snake.svg)
 
 
 
