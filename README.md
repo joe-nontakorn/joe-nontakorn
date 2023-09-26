@@ -58,7 +58,8 @@ Computer Engineering
 
 ### My GitHub Stats
 
-<a> ![Nontakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-nontakorn&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-nontakorn&layout=compact&show_icons=true&theme=radical)
+<a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-nontakorn&layout=pie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Nontakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-nontakorn&show_icons=true&theme=radical)  
 </a>
 
 
