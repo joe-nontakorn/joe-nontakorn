@@ -40,8 +40,9 @@
 
 ### My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/joe-nontakorn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/profiles/joe-nontakorn?theme=github_dark" alt="GitHub Profile Summary"/>
-  </a>
-</p>
+📊 [View my GitHub profile for detailed statistics](https://github.com/joe-nontakorn)
+
+- 📦 Public Repositories
+- ⭐ Starred Projects
+- 📈 Contribution Activity
+- 🔧 Technology Stack
