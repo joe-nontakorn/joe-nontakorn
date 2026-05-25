@@ -40,10 +40,8 @@
 
 ### My GitHub Stats
 
-<a href="https://github.com/joe-nontakorn">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-nontakorn&layout=pie&show_icons=true&theme=github_dark" alt="Top Languages"/>
-</a>
-
-<a href="https://github.com/joe-nontakorn">
-  <img src="https://github-readme-stats.vercel.app/api?username=joe-nontakorn&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-</a>
+<p align="center">
+  <a href="https://github.com/joe-nontakorn">
+    <img src="https://github-profile-summary-cards.vercel.app/api/profiles/joe-nontakorn?theme=github_dark" alt="GitHub Profile Summary"/>
+  </a>
+</p>
