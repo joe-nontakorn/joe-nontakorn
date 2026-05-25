@@ -12,7 +12,7 @@
 
 * 🎓 วิศวกรรมคอมพิวเตอร์ จาก มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี (2566)
 * 💼 ตำแหน่งปัจจุบัน: IT Engineer @ Jastel Network Co. Ltd
-* 🔧 เชี่ยวชาญ: Infrastructure & DevOps • Cloud Systems • Network Engineering
+* 🔧 เชี่ยวชาญ: Infrastructure & DevOps • Cloud Systems • Backend Developer
 * 🌍 I'm based in Thailand
 * 📫 How to reach me: **nontakorn.joe01@gmail.com**
 
